@@ -1,5 +1,0 @@
-BOT_TOKEN = "8897869307:AAEuqqCxs0oEH1SlzYICZJUFgpQJmJMb4pg"
-ADMIN_IDS = [8150061698]
-
-# Boshlang'ich foydalanuvchilar soni (statistika uchun)
-INITIAL_USERS = 600
